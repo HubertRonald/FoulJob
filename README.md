@@ -6,7 +6,7 @@ Foul Job is an Web App presented to [Kenney Jam 2017](https://itch.io/jam/kenney
 * You can play it [here](https://liasoft.itch.io/foul-job)
 
 ## Main Features
-* You can create any boxes draggable with camera
+* You can create any boxes draggable (Box2D) with camera
 * Improved properties of kinetic zoom camera and tilemap for support multiple screen resolution
 * Many combined liquid fun effects
 * Button Class support many effects (easing, Gtween and moviclip) Sample [Winki App](https://www.youtube.com/watch?v=Ug7HLq2wMDg) Button 
