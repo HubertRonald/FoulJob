@@ -9,6 +9,10 @@ Foul Job is an Web App presented to [Kenney Jam 2017](https://itch.io/jam/kenney
 * You can create any boxes draggable with camera
 * Improved properties of kinetic zoom camera and tilemap for support multiple screen resolution
 * Many combined liquid fun effects
+* Button Class support many effects (easing, Gtween and moviclip)
+<p align="left">
+<a href="https://imgflip.com/gif/1wc7k4"><img src="https://i.imgflip.com/1wc7k4.gif" title="made at imgflip.com"/></a>
+</p>
 
 ## Built With
 
