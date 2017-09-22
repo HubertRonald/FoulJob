@@ -3,7 +3,7 @@ Foul Job is an Web App presented to [Kenney Jam 2017](https://itch.io/jam/kenney
 * The Kenney Jam 2017 theme was:
 **"It's a feature, not a bug!"**
 * You can watch video demo [here](https://www.youtube.com/watch?v=BE8lp3iFPX4)
-* You can play it here [here](https://liasoft.itch.io/foul-job)
+* You can play it [here](https://liasoft.itch.io/foul-job)
 
 ## Main Features
 * You can create any boxes draggable with camera
